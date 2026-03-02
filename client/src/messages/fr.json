@@ -1,0 +1,194 @@
+{
+  "header": {
+    "logo": "Peintel",
+    "nav": {
+      "services": "Services",
+      "projects": "Réalisations",
+      "contact": "Contact"
+    },
+    "cta": "Demander un devis"
+  },
+  "hero": {
+    "headline": "Transformez vos espaces avec expertise",
+    "subheadline": "Services professionnels de rénovation et peinture pour votre maison",
+    "cta1": "Demander un devis",
+    "cta2": "Voir nos services"
+  },
+  "benefits": {
+    "title": "Pourquoi nous choisir",
+    "items": [
+      {
+        "title": "Expertise reconnue",
+        "description": "Plus de 10 ans d'expérience dans la rénovation et la peinture"
+      },
+      {
+        "title": "Qualité garantie",
+        "description": "Matériaux premium et finitions impeccables"
+      },
+      {
+        "title": "Équipe professionnelle",
+        "description": "Artisans qualifiés et courtois"
+      },
+      {
+        "title": "Satisfaction client",
+        "description": "100% de nos clients recommandent nos services"
+      },
+      {
+        "title": "Délais respectés",
+        "description": "Livraison à temps, chaque fois"
+      },
+      {
+        "title": "Devis gratuit",
+        "description": "Évaluation sans engagement"
+      }
+    ]
+  },
+  "about": {
+    "title": "À propos de Peintel",
+    "description": "Peintel est votre partenaire de confiance pour tous vos projets de rénovation et peinture. Nous combinons expertise, qualité et professionnalisme pour transformer vos espaces en lieux de vie exceptionnels."
+  },
+  "services": {
+    "title": "Nos services",
+    "subtitle": "Découvrez notre gamme complète de services",
+    "items": [
+      {
+        "id": "peinture-interieure",
+        "name": "Peinture intérieure",
+        "description": "Transformation d'intérieurs avec finitions impeccables",
+        "shortDescription": "Peinture intérieure de qualité supérieure pour tous vos espaces"
+      },
+      {
+        "id": "peinture-exterieure",
+        "name": "Peinture extérieure",
+        "description": "Protection et embellissement de vos façades",
+        "shortDescription": "Peinture extérieure résistante aux intempéries"
+      },
+      {
+        "id": "peinture-pistolet",
+        "name": "Peinture au pistolet (Airless)",
+        "description": "Finition rapide et uniforme avec technologie Airless",
+        "shortDescription": "Application au pistolet pour une finition professionnelle"
+      },
+      {
+        "id": "peinture-isolante",
+        "name": "Peinture isolante thermique",
+        "description": "Isolation thermique et économies d'énergie",
+        "shortDescription": "Peinture isolante pour améliorer l'efficacité énergétique"
+      },
+      {
+        "id": "beton-cire",
+        "name": "Béton ciré",
+        "description": "Revêtement moderne et durable pour sols et murs",
+        "shortDescription": "Béton ciré pour une esthétique contemporaine"
+      },
+      {
+        "id": "revetement-sol",
+        "name": "Revêtement de sol",
+        "description": "Solutions complètes pour tous types de sols",
+        "shortDescription": "Revêtements de sol durables et élégants"
+      },
+      {
+        "id": "revetement-mural",
+        "name": "Revêtement mural",
+        "description": "Habillage mural pour une ambiance unique",
+        "shortDescription": "Revêtements muraux pour transformer vos murs"
+      }
+    ]
+  },
+  "beforeAfter": {
+    "title": "Avant / Après",
+    "subtitle": "Découvrez la transformation de nos réalisations",
+    "highlights": [
+      "Résultats visibles et durables",
+      "Travail soigné et détaillé",
+      "Satisfaction garantie"
+    ]
+  },
+  "process": {
+    "title": "Notre processus",
+    "subtitle": "4 étapes simples pour votre projet",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Consultation",
+        "description": "Discutez de vos besoins et objectifs"
+      },
+      {
+        "number": "2",
+        "title": "Devis",
+        "description": "Reçevez un devis détaillé et transparent"
+      },
+      {
+        "number": "3",
+        "title": "Exécution",
+        "description": "Nos artisans réalisent votre projet"
+      },
+      {
+        "number": "4",
+        "title": "Finition",
+        "description": "Inspection finale et satisfaction garantie"
+      }
+    ]
+  },
+  "stats": {
+    "title": "Nos chiffres",
+    "items": [
+      {
+        "number": "500+",
+        "label": "Projets réalisés"
+      },
+      {
+        "number": "98%",
+        "label": "Clients satisfaits"
+      },
+      {
+        "number": "10+",
+        "label": "Années d'expérience"
+      }
+    ]
+  },
+  "projects": {
+    "title": "Réalisations récentes",
+    "subtitle": "Explorez nos derniers projets",
+    "viewAll": "Voir toutes les réalisations"
+  },
+  "cta": {
+    "title": "Prêt à transformer votre espace ?",
+    "description": "Contactez-nous pour un devis gratuit",
+    "button": "Demander un devis"
+  },
+  "footer": {
+    "brand": "Peintel",
+    "description": "Services professionnels de rénovation et peinture",
+    "links": {
+      "services": "Services",
+      "projects": "Réalisations",
+      "contact": "Contact"
+    },
+    "social": "Suivez-nous",
+    "copyright": "© 2024 Peintel. Tous droits réservés."
+  },
+  "quote": {
+    "title": "Demander un devis",
+    "service": "Service",
+    "selectService": "Sélectionnez un service",
+    "address": "Adresse",
+    "phone": "Téléphone",
+    "details": "Détails (optionnel)",
+    "submit": "Envoyer via WhatsApp",
+    "cancel": "Annuler"
+  },
+  "serviceDetail": {
+    "whatIncluded": "Ce qui est inclus",
+    "whenToChoose": "Quand choisir ce service",
+    "gallery": "Galerie avant/après",
+    "faq": "Questions fréquentes",
+    "cta": "Demander un devis pour ce service"
+  },
+  "contact": {
+    "title": "Contactez-nous",
+    "description": "Nous sommes disponibles pour répondre à vos questions",
+    "whatsapp": "Ouvrir WhatsApp",
+    "phone": "+33 7 74 55 53 11"
+  }
+}

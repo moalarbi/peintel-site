@@ -1,0 +1,194 @@
+{
+  "header": {
+    "logo": "Peintel",
+    "nav": {
+      "services": "Services",
+      "projects": "Projects",
+      "contact": "Contact"
+    },
+    "cta": "Get a Quote"
+  },
+  "hero": {
+    "headline": "Transform Your Spaces with Expertise",
+    "subheadline": "Professional renovation and painting services for your home",
+    "cta1": "Get a Quote",
+    "cta2": "View Services"
+  },
+  "benefits": {
+    "title": "Why Choose Us",
+    "items": [
+      {
+        "title": "Recognized Expertise",
+        "description": "Over 10 years of experience in renovation and painting"
+      },
+      {
+        "title": "Quality Guaranteed",
+        "description": "Premium materials and flawless finishes"
+      },
+      {
+        "title": "Professional Team",
+        "description": "Skilled and courteous craftsmen"
+      },
+      {
+        "title": "Customer Satisfaction",
+        "description": "100% of our clients recommend our services"
+      },
+      {
+        "title": "Timely Delivery",
+        "description": "On-time completion, every time"
+      },
+      {
+        "title": "Free Quote",
+        "description": "Evaluation without commitment"
+      }
+    ]
+  },
+  "about": {
+    "title": "About Peintel",
+    "description": "Peintel is your trusted partner for all your renovation and painting projects. We combine expertise, quality, and professionalism to transform your spaces into exceptional living areas."
+  },
+  "services": {
+    "title": "Our Services",
+    "subtitle": "Discover our complete range of services",
+    "items": [
+      {
+        "id": "peinture-interieure",
+        "name": "Interior Painting",
+        "description": "Interior transformation with flawless finishes",
+        "shortDescription": "High-quality interior painting for all your spaces"
+      },
+      {
+        "id": "peinture-exterieure",
+        "name": "Exterior Painting",
+        "description": "Protection and beautification of your facades",
+        "shortDescription": "Weather-resistant exterior painting"
+      },
+      {
+        "id": "peinture-pistolet",
+        "name": "Airless Spray Painting",
+        "description": "Fast and uniform finish with Airless technology",
+        "shortDescription": "Spray application for professional finish"
+      },
+      {
+        "id": "peinture-isolante",
+        "name": "Thermal Insulating Paint",
+        "description": "Thermal insulation and energy savings",
+        "shortDescription": "Insulating paint to improve energy efficiency"
+      },
+      {
+        "id": "beton-cire",
+        "name": "Polished Concrete",
+        "description": "Modern and durable coating for floors and walls",
+        "shortDescription": "Polished concrete for contemporary aesthetics"
+      },
+      {
+        "id": "revetement-sol",
+        "name": "Floor Covering",
+        "description": "Complete solutions for all types of floors",
+        "shortDescription": "Durable and elegant floor coverings"
+      },
+      {
+        "id": "revetement-mural",
+        "name": "Wall Covering",
+        "description": "Wall cladding for a unique atmosphere",
+        "shortDescription": "Wall coverings to transform your walls"
+      }
+    ]
+  },
+  "beforeAfter": {
+    "title": "Before / After",
+    "subtitle": "Discover the transformation of our projects",
+    "highlights": [
+      "Visible and lasting results",
+      "Careful and detailed work",
+      "Guaranteed satisfaction"
+    ]
+  },
+  "process": {
+    "title": "Our Process",
+    "subtitle": "4 simple steps for your project",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Consultation",
+        "description": "Discuss your needs and objectives"
+      },
+      {
+        "number": "2",
+        "title": "Quote",
+        "description": "Receive a detailed and transparent quote"
+      },
+      {
+        "number": "3",
+        "title": "Execution",
+        "description": "Our craftsmen carry out your project"
+      },
+      {
+        "number": "4",
+        "title": "Completion",
+        "description": "Final inspection and guaranteed satisfaction"
+      }
+    ]
+  },
+  "stats": {
+    "title": "Our Numbers",
+    "items": [
+      {
+        "number": "500+",
+        "label": "Projects Completed"
+      },
+      {
+        "number": "98%",
+        "label": "Satisfied Clients"
+      },
+      {
+        "number": "10+",
+        "label": "Years of Experience"
+      }
+    ]
+  },
+  "projects": {
+    "title": "Recent Projects",
+    "subtitle": "Explore our latest work",
+    "viewAll": "View All Projects"
+  },
+  "cta": {
+    "title": "Ready to Transform Your Space?",
+    "description": "Contact us for a free quote",
+    "button": "Get a Quote"
+  },
+  "footer": {
+    "brand": "Peintel",
+    "description": "Professional renovation and painting services",
+    "links": {
+      "services": "Services",
+      "projects": "Projects",
+      "contact": "Contact"
+    },
+    "social": "Follow Us",
+    "copyright": "© 2024 Peintel. All rights reserved."
+  },
+  "quote": {
+    "title": "Get a Quote",
+    "service": "Service",
+    "selectService": "Select a service",
+    "address": "Address",
+    "phone": "Phone Number",
+    "details": "Details (optional)",
+    "submit": "Send via WhatsApp",
+    "cancel": "Cancel"
+  },
+  "serviceDetail": {
+    "whatIncluded": "What's Included",
+    "whenToChoose": "When to Choose This Service",
+    "gallery": "Before/After Gallery",
+    "faq": "Frequently Asked Questions",
+    "cta": "Get a Quote for This Service"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "description": "We are available to answer your questions",
+    "whatsapp": "Open WhatsApp",
+    "phone": "+33 7 74 55 53 11"
+  }
+}
